@@ -2,6 +2,7 @@
 
 ## Phenotypes
 In our overfeeding analysis, 780 geese were initially selected and 488 of them matched our sampling protocol. These 488 geese were genotyped by 2bRAD method and raw data was uploaded to NCBI with the project number of PRJNA631863. According to our method in manuscript, one can finish variants calling based on these raw data.
+In the excel file, people can also find samples (highlighted in yellow) selected for Rsb analysis because these samples had extremely low- and high-FLW/RLW.
 If you cannot make it and please send a email to us for help or request for the genotype data (yang.yunzhou@imbim.uu.se).
 ## GWAS on Pstwt, Prewt and FLW
 A standard GWAS on these three traits were carried out following steps in GenABEL manual. We added sex, farm house/method and worker to our mixed model as fixed effects.
