@@ -1,7 +1,7 @@
 <h2><p align="center">Exploring the genetic basis of fatty liver development in geese</p></h2>
 
 
-<h5>Yunzhou Yang<sup>1,2&ast</sup>, Huiying Wang<sup>1</sup>, Guangquan Li<sup>1</sup>, Yi Liu<sup>1</sup>, Cui Wang<sup>1</sup>, Daqian He<sup>1&ast</sup></h5>
+<h5>Yunzhou Yang<sup>1,2<code>&ast;</code></sup>, Huiying Wang<sup>1</sup>, Guangquan Li<sup>1</sup>, Yi Liu<sup>1</sup>, Cui Wang<sup>1</sup>, Daqian He<sup>1<code>&ast;</code></sup></h5>
 
 <h5><sup>1</sup>Institute of Animal Husbandry & Veterinary Science, Shanghai Academy of Agricultural Sciences, Shanghai, 201106, P.R. China</h5>
 
