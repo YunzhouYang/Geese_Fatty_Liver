@@ -30,7 +30,7 @@ If you cannot repeat the variants calling steps (it happends because versions or
 ## GWAS on Pstwt, Prewt and FLW
 A standard GWAS on these three traits were carried out by following steps in GenABEL manual. We added sex, farm house/method and worker to our mixed model as fixed effects. These effects were encoded to 0, 1, 2, 3, 4 ... as a factor in model.
 
-<img src="https://render.githubusercontent.com/render/math?math=y = &mu %2B sex %2B worker %2B house %2Be ">
+<img src="https://render.githubusercontent.com/render/math?math=y = &#956; %2B sex %2B worker %2B house %2Be ">
 
 Where y is the phenotype to be tested (one of FLW, RLW, Prewt and Pstwt), u is the mean value, sex, worker and house were fixed effects encoded as 0, 1, 2, 3..., genotype refers to genotypes and e means residuals error.
 
