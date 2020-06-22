@@ -1,5 +1,5 @@
 
-<h1 style="text-align:center;font-size:1em;color:Tomato;">Exploring the genetic basis of fatty liver development in geese</h1>
+<h1 style="text-align:center;font-size:1em;color:#ff0000;">Exploring the genetic basis of fatty liver development in geese</h1>
 <h1 style="text-align:center;font-size:3em;color:#FF6347;">Exploring the genetic basis of fatty liver development in geese</h1>
 
 
