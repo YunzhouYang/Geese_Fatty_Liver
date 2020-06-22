@@ -1,6 +1,6 @@
-#Exploring the genetic basis of fatty liver development in geese
+# Exploring the genetic basis of fatty liver development in geese
 
-####Yunzhou Yang^1,2\*^, Huiying Wang^1^, Guangquan Li^1^, Yi Liu^1^, Cui Wang^1^, Daqian He^1\*^
+#### Yunzhou Yang^1,2\*^, Huiying Wang^1^, Guangquan Li^1^, Yi Liu^1^, Cui Wang^1^, Daqian He^1\*^
 
 ^1^Institute of Animal Husbandry & Veterinary Science, Shanghai Academy of Agricultural Sciences, Shanghai, 201106, P.R. China
 
