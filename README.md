@@ -27,7 +27,7 @@ In the excel file, people can also find samples (highlighted in yellow) selected
   
 If you cannot repeat the variants calling steps (it happends because versions or computing machine configurations vary a lot among people), please send an email to us for help or request for the genotype data (yang.yunzhou@imbim.uu.se or daqianhe@aliyun.com).
 
-###################################### Remember to Phase your Genotypes ############################
+######################## **Remember to Phase your Genotypes** ####################
 
 ## GWAS on Pstwt, Prewt and FLW
 A standard GWAS on these three traits were carried out by following steps in GenABEL manual. We added sex, farm house/method and worker to our mixed model as fixed effects. These effects were encoded to 0, 1, 2, 3, 4 ... as a factor in model.
