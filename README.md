@@ -1,4 +1,4 @@
-<h4 style="text-align:center">Exploring the genetic basis of fatty liver development in geese</h4>
+<h4><p align="center">Exploring the genetic basis of fatty liver development in geese</p></h4>
 
 
 #### Yunzhou Yang^1,2\*^, Huiying Wang^1^, Guangquan Li^1^, Yi Liu^1^, Cui Wang^1^, Daqian He^1\*^
