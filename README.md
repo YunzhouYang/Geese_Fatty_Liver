@@ -44,7 +44,7 @@ We renamed the scaffold names by sorting in decreasing order which made the Manh
 ## Explained variance by the most significant SNP on scaffold 2
 In our phenotype file, there were 11 loci that were found to be related to Pstwt and Prewt on a genome-wide level. People can use the genotype info to calculate variance explained by these SNPs or each of them by following the model:
 
-<img src="https://render.githubusercontent.com/render/math?math=y = u %2B sex %2B worker %2B house %2B%11loci 2Be ">
+<img src="https://render.githubusercontent.com/render/math?math=y = u %2B sex %2B worker %2B house %2B11loci %2Be ">
 
 Where y, u, sex, house, worker and e were same as in formula (1), 11 loci were depostied in gentoype file and encoded as 0, 1 and 2 (see the file: **pheno_abl4_488_Github.xlsx**). The following figure was obtained from our R script:
 
@@ -56,7 +56,7 @@ We have written a new R script to extract haplotypes from phased vcf files and c
   - GT file: the vcf-like file by removing lines starting with ##.
   - region: scaffold name.
   - parts: locations or genes.
-  -left & right: locations (integer).
+  - left & right: locations (integer).
   - out_dir: folder to store results.
   
 This function will produce:
